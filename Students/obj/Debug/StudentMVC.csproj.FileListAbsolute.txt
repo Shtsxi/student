@@ -1,0 +1,10 @@
+D:\User\Desktop\New folder\Students\Students\obj\Debug\StudentMVC.csprojAssemblyReference.cache
+D:\User\Desktop\New folder\Students\Students\obj\Debug\Students.Properties.Resources.resources
+D:\User\Desktop\New folder\Students\Students\obj\Debug\Students.View.MainView.resources
+D:\User\Desktop\New folder\Students\Students\obj\Debug\StudentMVC.csproj.GenerateResource.cache
+D:\User\Desktop\New folder\Students\Students\obj\Debug\StudentMVC.csproj.CoreCompileInputs.cache
+D:\User\Desktop\New folder\Students\Students\bin\Debug\Students.exe.config
+D:\User\Desktop\New folder\Students\Students\bin\Debug\Students.exe
+D:\User\Desktop\New folder\Students\Students\bin\Debug\Students.pdb
+D:\User\Desktop\New folder\Students\Students\obj\Debug\Students.exe
+D:\User\Desktop\New folder\Students\Students\obj\Debug\Students.pdb
